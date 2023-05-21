@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Shuhui, a beginner in programming.
+I'm Jesse (Shuhui), a beginner in programming.
 
 ### 📜 Languages I use: 
 
