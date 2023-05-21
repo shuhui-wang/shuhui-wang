@@ -1,8 +1,12 @@
 ### 🥦 Hi! Nice to meet you.
 
 Welcome to my page!
+
 I'm Shuhui, a beginner in programming.
 
+I code with 
+![](https://img.shields.io/badge/python-3.8-blue)
+![](https://img.shields.io/badge/R-brightgreen)
 
 
 <!--
