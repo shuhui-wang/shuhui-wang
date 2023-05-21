@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥦 Hi there, I'm Jesse (Shuhui) 🐈‍⬛
+# 🥦 Hi there, I'm Jesse (Shuhui) 🐈
 
 ![shuhuiwang1005@gmail.com](https://img.shields.io/badge/email-shuhuiwang1005@gmail.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)
 ![https://shuhuiwang.netlify.app/](https://img.shields.io/badge/homepage-https://shuhuiwang.netlify.com-blueviolet?style=flat-square&logo=vercel&color=000000)
@@ -14,7 +14,7 @@
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
-**Looking ahead, my aspiration is to become an engineer and work with Mark.** 🐈
+**Looking ahead, my aspiration is to become an engineer and work with Mark.** 🐈‍⬛
 
 ### 📜 I currently use
 
