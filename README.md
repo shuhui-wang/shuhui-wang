@@ -1,10 +1,10 @@
-### 🥦 Hi! Nice to meet you.
+### 🥦 Hi! Nice to meet you!
 
 Welcome to my page!
 
 I'm Shuhui, a beginner in programming.
 
-### 📜 Things I code with 
+### 📜 Languages I use: 
 
 ![](https://img.shields.io/badge/python-3.8-blue)
 ![](https://img.shields.io/badge/R-4.2.2-brightgreen)
