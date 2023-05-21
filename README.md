@@ -8,7 +8,7 @@ I'm Jesse (Shuhui), a beginner in programming.
 
 ![](https://img.shields.io/badge/python-3.8-blue)
 ![](https://img.shields.io/badge/R-4.2.2-brightgreen)
-
+![](https://img.shields.io/badge/HTML-blueviolet)
 
 <!--
 **shuhui-wang/shuhui-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 -->
 
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=dark)
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=radical)
