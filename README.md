@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🥦 Hi! Nice to meet you.
+
+Welcome to my page!
+I'm Shuhui, a beginner in programming.
+
+
 
 <!--
 **shuhui-wang/shuhui-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Shuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=radical)
