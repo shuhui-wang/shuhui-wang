@@ -12,7 +12,7 @@
 
 👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating！
 
-During my graduate program, I studied mainly on multi-objective optimization algorithms.
+My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems.
 
 **Looking ahead, my aspiration is to become an engineer.**
 
