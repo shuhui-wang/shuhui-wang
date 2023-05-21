@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Shuhui, a beginner in programming.
+I'm Jesse (Shuhui), a beginner in programming.
 
 ### 📜 Languages I use: 
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Shuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=radical)
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=radical)
