@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact)
 -->
 
-<a href="https://github.com/shuhui-wang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuhui-wang&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/shuhui-wang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuhui-wang&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
