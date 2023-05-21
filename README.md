@@ -8,7 +8,7 @@
 
 </div>
  
-🎮 I am a beginner in programming!
+🎮 I am a beginner in programming =)
 
 👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! 
 
