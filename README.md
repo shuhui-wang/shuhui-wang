@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact)
