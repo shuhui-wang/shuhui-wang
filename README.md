@@ -8,7 +8,7 @@
 
 </div>
  
-🎮 I am a beginner in programming (actually a self-taught programmer,😅 Hail to YouTubers!!! 🌺) 
+🎮 I am a beginner in programming (actually a self-taught programmer😅. Hail to YouTubers!!! 🌺) 
 
 👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! 
 
