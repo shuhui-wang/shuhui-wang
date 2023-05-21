@@ -8,7 +8,7 @@ I'm Jesse (Shuhui), a beginner in programming.
 ### 📜 I currently use: 
 
 ![](https://img.shields.io/badge/python-3.8-blue)
-![](https://img.shields.io/badge/R-4.2.2-brightgreen)
+![](https://img.shields.io/badge/R-4.2.2-success)
 ![](https://img.shields.io/badge/HTML-blueviolet)
 ![](https://img.shields.io/badge/LaTex-ff69b4)
 
