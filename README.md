@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=merko)
 
-⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.70 %
+### ⏳ Year progress
+
+{ ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.70 %
 
 ---
 
-⏰ Updated on Mon, 22 May 2023 06:14:09 GMT
+### ⏰ Updated on Mon, 22 May 2023 06:14:09 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/shuhui-wang/shuhui-wang/workflows/Progress%20Bar%20CI/badge.svg)
 
