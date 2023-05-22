@@ -51,5 +51,4 @@ Here are some ideas to get you started:
 
 ### ⏰ Updated on Mon, 22 May 2023 06:14:09 GMT
 
-![Progress Bar CI](https://github.com/shuhui-wang/shuhui-wang/workflows/Progress%20Bar%20CI/badge.svg)
 
