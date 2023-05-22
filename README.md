@@ -37,7 +37,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 -->
+
+### 📜 Fun facts about me
+
+🗣️ Multilingual (English/Mandarin/Cantonese)
+
+💵 Minimalist, coffee and Red Bull lover
+
+
+
 ### 📈 Stats
 
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=merko)
