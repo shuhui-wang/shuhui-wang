@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 -->
 
-### 📜 Fun facts about me
+### 🍀 Fun facts about me
 
 🗣️ Multilingual (English/Mandarin/Cantonese)
 
