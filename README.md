@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 💵 Minimalist, coffee and Red Bull lover
 
+🎸 Guitar player, hope to get my Fender Mustang this year 🥺
+
 
 
 ### 📈 Stats
