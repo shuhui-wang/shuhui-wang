@@ -16,7 +16,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 **Looking ahead, my aspiration is to become an engineer and work with Mark.** 🐈‍⬛
 
-<div align="center">
+
 ### 📜 I currently use
 
 ![](https://img.shields.io/badge/python-3.8-blue)
@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=merko)
 
-</div>
 
 
 
