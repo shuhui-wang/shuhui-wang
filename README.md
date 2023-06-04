@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 💵 Minimalist, coffee and Red Bull lover
 
-🎸 Acoustic guitar player, but hoping to get an electric one (Fender Mustang plz) this year 🥺
+🎸 Acoustic guitar player, but hoping to get an electric guitar (Fender Mustang plz) this year 🥺
 
 
 
