@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ### 🍀 Fun facts about me
 
-🗣️ Multilingual (English/Mandarin/Cantonese)
+🗣️ Try to be multilingual (English/Mandarin/Cantonese) 😅
 
-💵 Minimalist, coffee and Red Bull lover
+💵 Minimalist, coffee and Red Bull lover 
 
 🎸 Acoustic guitar player, but hoping to get an electric guitar (Fender Mustang plz) this year 🥺
 
