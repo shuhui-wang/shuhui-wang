@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 ### 📈 Stats
 
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=merko)
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhui-wang&show_icons=true&theme=merko&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhui-wang&hide=TeX&layout=compact&theme=merko&PAT_1)
 
 
 
