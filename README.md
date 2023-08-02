@@ -8,7 +8,7 @@
 
 </div>
  
-🎮 I am a three-years beginner 😅 in programming (actually a self-taught programmer. 😅 Hail YouTube, Github, Stack Overflow! 🌺 YKWIM =) 
+🎮 I am a beginner in programming with three years of experience (actually a self-taught programmer. 😅 Hail YouTube, Github, Stack Overflow! 🌺 YKWIM =) 
 
 👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! 
 
