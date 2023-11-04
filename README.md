@@ -16,9 +16,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 **Looking ahead, my aspiration is to 去码头整点薯条🍟
 
-![v2-b2ac336dacd61dac8de699c9aa381024_b](https://github.com/shuhui-wang/shuhui-wang/assets/82034313/36175fa9-1df3-4452-acc5-8d022186a9c5)
-
-
+![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/assets/82034313/2ef28afe-1689-422d-9fea-f6692b6dc132)
 
 ### 📜 I currently use
 
