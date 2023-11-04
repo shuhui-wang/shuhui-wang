@@ -16,6 +16,9 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 **Looking ahead, my aspiration is to 去码头整点薯条🍟
 
+![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/assets/82034313/8e546c8b-a628-43e3-b418-9ba8ffe1db35)
+
+
 ### 📜 I currently use
 
 ![](https://img.shields.io/badge/python-3.8-blue)
