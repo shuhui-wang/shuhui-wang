@@ -16,7 +16,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 **Looking ahead, my aspiration is to grab some chips 🍟 and beat the 💩 out of some pretentious narcissists 👊 💪 (anyway live fast die young be wild and have fun 😇. Do not FULLY trust any authority 😇 🙄)
 
-![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/assets/82034313/df904b1f-d805-4ef5-834f-86f24b7ffe02)
+![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/blob/main/tbodgyxlu4011.webp)
 
 ### 📜 I currently use
 
