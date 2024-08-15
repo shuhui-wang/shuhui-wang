@@ -14,7 +14,7 @@
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
-**Looking ahead, my aspiration is to grab some chips 🍟 and beat the 💩 out of some pretentious narcissists 👊 💪 (anyway live fast die young be wild and have fun 😇. Do not FULLY trust any authority 😇 🙄)
+**Looking ahead, my aspiration is live fast die young be wild and have fun 😇
 
 ![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/blob/main/tbodgyxlu4011.webp)
 
