@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 🍀 Fun facts about me
 
-🗣️ Try to be multilingual (English/Mandarin/Cantonese) 😅
+🗣️ Try to be multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo 😅
 
 💵 Minimalist, coffee and Red Bull lover 
 
