@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 😇 <s>Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year 🔫 </s>
 
-🌕 Happy fucking mid-autumn festival!!🏮
+🌕 Happy <s>fucking</s> mid-autumn festival!!🏮
 
 
 
