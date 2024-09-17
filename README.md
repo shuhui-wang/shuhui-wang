@@ -39,6 +39,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+span.heimu a.external,
+span.heimu a.external:visited,
+span.heimu a.extiw,
+span.heimu a.extiw:visited {
+    color: #252525;
+}
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+body:not(.heimu_toggle_on) .heimu:hover,
+body:not(.heimu_toggle_on) .heimu:active,
+body:not(.heimu_toggle_on) .heimu.off {
+    transition: color .13s linear;
+    color: white;
+}
+body:not(.heimu_toggle_on) .heimu:hover a,
+body:not(.heimu_toggle_on) a:hover .heimu,
+body:not(.heimu_toggle_on) .heimu.off a,
+body:not(.heimu_toggle_on) a:hover .heimu.off {
+    transition: color .13s linear;
+    color: lightblue;
+}
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off,
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off {
+    transition: color .13s linear;
+    color: #BA0000;
+}
 
 -->
 
@@ -50,7 +86,7 @@ Here are some ideas to get you started:
 
 🎸 Acoustic guitar player, but practicing electric guitar (Fender Mustang, the collest guitar in the world🐎) starting this year 🥺
 
-😇 <s>Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year 🔫 </s>
+😇 <span class="heimu" title="FBI Warning: not beneficial for mental health">Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year 🔫</span>
 
 🌕 Happy <s>fucking</s> mid-autumn festival!!🏮
 
