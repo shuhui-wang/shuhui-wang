@@ -14,7 +14,7 @@
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
-**Looking ahead, my aspiration is live fast die young be wild and have fun 😇
+**Looking ahead, my aspiration is: live fast, die young, be wild, and have fun 😇
 
 ![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/blob/main/tbodgyxlu4011.webp)
 
@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 
 💵 Minimalist, coffee and Red Bull lover 
 
-🎸 Acoustic guitar player, but hoping to get an electric guitar (Fender Mustang plz) this year 🥺
+🎸 Acoustic guitar player, but practicing electric guitar (Fender Mustang, the collest guitar in the world🐎) this year 🥺
+
+😇 Hoping to join in the 27 club or quit PhD program if I still have no publication in my current study and still roasted by my supervisor next year 🔫
+
+🌕 Happy fucking mid-autumn festival!!🏮
 
 
 
