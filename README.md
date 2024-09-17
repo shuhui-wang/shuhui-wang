@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+-->
+
 span.heimu a.external,
 span.heimu a.external:visited,
 span.heimu a.extiw,
@@ -75,8 +79,6 @@ body:not(.heimu_toggle_on) .new:hover .heimu.off {
     transition: color .13s linear;
     color: #BA0000;
 }
-
--->
 
 ### 🍀 Fun facts about me
 
