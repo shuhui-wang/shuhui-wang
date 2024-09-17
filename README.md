@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 🎸 Acoustic guitar player, but practicing electric guitar (Fender Mustang, the collest guitar in the world🐎) this year 🥺
 
-😇 Hoping to join in the 27 club or quit PhD program if I still have no publication in my current study and still roasted by my supervisor next year 🔫
+😇 Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year 🔫
 
 🌕 Happy fucking mid-autumn festival!!🏮
 
