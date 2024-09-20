@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 🎸 Acoustic guitar player, but started playing electric guitar (Fender Mustang, the coolest guitar in the world🐎) this year 🥺
 
-😇 <s>Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year 🔫</s>
+😇 <s>Hoping to join in the 27 club or quit my current PhD program if I still have no publications and roasted by my supervisor next year </s>
 
 
 
