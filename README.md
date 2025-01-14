@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 -->
 
-### 🍀 Fun facts about me
-### 🪽 精神状态一览：Yes, and?
+### 🍀 Fun facts about me (精神状态一览：Yes, and?)
+
 
 🗣️ Multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo (Comment ça va! but lost streak in 2024, anyway, fuck you 2024) 😅
 
