@@ -8,16 +8,15 @@
 
 </div>
  
-🎮 I am a beginner in programming with three years of experience (actually a self-taught programmer. 😅 Hail YouTube, Github, Stack Overflow! 🌺 YKWIM =) 
+🎮 I am a self-taught programmer. 😅 Hail YouTube, Github, Stack Overflow! 🌺 YKWIM =) 
 
-👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! 
+👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! wanna do something funny (but maybe not useful)
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
 **Looking ahead, my aspiration is: live fast, die young, be wild, and have fun 😇
 
 
-当前精神状态：Yes, and?
 <div align="center">
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/888627946e5aa9aa802587e826da13ad.jpg" alt="meme" width="200">
 </div>
@@ -52,14 +51,15 @@ Here are some ideas to get you started:
 -->
 
 ### 🍀 Fun facts about me
+### 🪽 精神状态一览：Yes, and?
 
-🗣️ Try to be multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo (Comment ça va!) 😅
+🗣️ Multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo (Comment ça va! but lost streak in 2024, anyway, fuck you 2024) 😅
 
-💵 Minimalist, coffee and Red Bull lover 
+💵 Minimalist (in other words, poor ;), trying to reduce coffee and sugar intake ... (I don't think it's possible to reduce coffee intake for a PhD student)
 
-🎸 Acoustic guitar player, but started playing electric guitar (Fender Mustang, the coolest guitar in the world🐎) this year 🥺
+🎸 Please start playing your Fender Mustang 🐎 in 2025 or I will send it to ebay 🙄
 
-😇 <s>Hoping to join in the 27 club or quit my current PhD program if I still have no publications next year </s>
+😇 <s>Hoping to join in the 27 club if I still have no publications in 2025 (but still aggressively wanna do this PhD program, December 2024 really changed my whole life) </s>
 
 
 
