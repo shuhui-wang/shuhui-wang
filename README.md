@@ -17,7 +17,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 **Looking ahead, my aspiration is: live fast, die young, be wild, and have fun 😇
 
 
-
+当前精神状态：Yes, and?
 <div align="center">
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/888627946e5aa9aa802587e826da13ad.jpg" alt="meme" width="200">
 </div>
