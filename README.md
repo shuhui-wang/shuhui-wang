@@ -16,7 +16,8 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 **Looking ahead, my aspiration is: live fast, die young, be wild, and have fun 😇
 
-![396742594_294981486761667_6286926181718421372_n](https://github.com/shuhui-wang/shuhui-wang/blob/main/tbodgyxlu4011.webp)
+![Meme](https://github.com/shuhui-wang/shuhui-wang/blob/main/tbodgyxlu4011.webp)
+
 
 ### 📜 I currently use
 
