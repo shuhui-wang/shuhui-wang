@@ -22,6 +22,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 </div>
 
 鸭头，我住在农场只是为了体验自给自足的生活，弹弹吉他，回顾老日子，你不要再嫌弃我是个乡下豚，搬过来跟我一起住，好吗？好的。不说了我鱼竿动了我先走了 🤠
+**** Red Wine Supernove is the best MV of Chappell Roan!!!
 <div align="center">
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Guinea%20pig%20rockstar.jpg" alt="meme2" width="200">
 </div>
