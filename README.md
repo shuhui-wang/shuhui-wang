@@ -24,7 +24,7 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Guinea%20pig%20rockstar.jpg" alt="meme2" width="200">
 </div>
 
-#### Red Wine Supernove is the best MV of Chappell Roan!!!
+#### Red Wine Supernova is the best MV of Chappell Roan!!!
 <div align="center">
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Redwine%20supernova.jpg" alt="meme2" width="400">
 </div>
