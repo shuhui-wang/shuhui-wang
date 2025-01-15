@@ -62,10 +62,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Guinea%20pig%20rockstar.jpg" alt="meme2" width="200">
 </div>
 
-#### Red Wine Supernova is the best MV of Chappell Roan!!! (Screaming*)
-<div align="center">
-  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Redwine%20supernova.jpg" alt="meme2" width="400">
-</div>
+#### 🍷🍷✨✨✨Red Wine Supernova is the best MV of Chappell Roan!!! (Screaming*)
+
 
 
 
