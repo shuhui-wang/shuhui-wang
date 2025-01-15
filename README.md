@@ -18,9 +18,13 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 
 
 <div align="center">
-  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/888627946e5aa9aa802587e826da13ad.jpg" alt="meme" width="200">
+  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Evil%20doreamon.jpg" alt="meme1" width="200">
 </div>
 
+鸭头，我住在农场只是为了体验自给自足的生活，弹弹吉他，回顾老日子，你不要再嫌弃我是个乡下豚，搬过来跟我一起住，好吗？好的。不说了我鱼竿动了我先走了 🤠
+<div align="center">
+  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Guinea%20pig%20rockstar.jpg" alt="meme2" width="200">
+</div>
 
 
 
