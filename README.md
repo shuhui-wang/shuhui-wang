@@ -14,9 +14,7 @@
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
-**Looking ahead, my life aspiration is: live fast, die young, be wild, and have fun 😇
-
-
+#### Looking ahead, my life aspiration is: live fast, die young, be wild, and have fun 😇
 <div align="center">
   <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Evil%20doreamon.jpg" alt="meme1" width="200">
 </div>
@@ -27,7 +25,9 @@ My graduate studies focused mainly on multi-objective optimization algorithms an
 </div>
 
 #### Red Wine Supernove is the best MV of Chappell Roan!!!
-
+<div align="center">
+  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Redwine%20supernova.jpg" alt="meme2" width="400">
+</div>
 
 
 
