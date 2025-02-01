@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 💵 Minimalist (in other words, poor ;), trying to reduce coffee and sugar intake ... (I don't think it's possible to reduce coffee intake for a PhD student)
 
-🎸 Please start playing your Fender Mustang 🐎 in 2025 or I will send it to ebay 🙄
+🎸 Please start playing your Fender Mustang 🐎 in 2025 or send it to ebay 🙄
 
 😇 <s>Hoping to join in the 27 club if I still have no publications in 2025 (but still aggressively wanna do this PhD program, December 2024 really changed my whole life) </s>
 
