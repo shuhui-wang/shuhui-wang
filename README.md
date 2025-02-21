@@ -14,7 +14,7 @@
 
 My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
 
-My PhD grogam is focused on wildfire and associated changes in streamflow (Please Please Please Let Me Get What I Want), long-term time series prediction thing 🔥🥵
+My PhD grogam is focused on wildfire and associated changes in streamflow 🔥🌎
 
 ### 📜 I currently use
 
