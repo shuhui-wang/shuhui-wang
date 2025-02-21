@@ -18,7 +18,7 @@ My PhD grogam is focused on wildfire and associated changes in streamflow 🔥�
 
 ### 📜 I currently use
 
-![](https://img.shields.io/badge/python-3.11-success)
+![](https://img.shields.io/badge/python-3.9-success)
 ![](https://img.shields.io/badge/R-4.4.2-blue)
 ![](https://img.shields.io/badge/HTML-blueviolet)
 ![](https://img.shields.io/badge/LaTex-ff69b4)
