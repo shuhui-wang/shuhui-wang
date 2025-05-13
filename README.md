@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤠 Hi there, I'm Jesse (Shuhui) 💅
+# 🤠 Hi there, I'm Jesse (Shuhui) 👈
 
 ![shuhuiwang1005@gmail.com](https://img.shields.io/badge/email-shuhuiwang1005@gmail.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)
 ![https://shuhuiwang.netlify.app/](https://img.shields.io/badge/homepage-https://shuhuiwang.netlify.com-blueviolet?style=flat-square&logo=vercel&color=000000)
@@ -10,11 +10,11 @@
  
 🎮 I am a self-taught programmer. 😅 Hail ChatGPT, YouTube, Github, Stack Overflow! 🌺 YKWIM =) 
 
-👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! wanna do something funny (but maybe not useful)
+👩🏻‍🔬 I enjoy experimenting, thinking, learning, and creating! 
 
-My graduate studies focused mainly on multi-objective optimization algorithms and their application in water resource management problems. (Yes I currently study Environmental Science 🌎)
+My graduate studies focused on MOEA and their application in water resource management. (Yes I currently study Environmental Science 🌎)
 
-My PhD grogam is focused on wildfire and associated changes in streamflow 🔥🌎
+My PhD grogam is focused on Wildfire and associated changes in streamflow 🔥🌎
 
 ### 📜 I currently use
 
@@ -41,28 +41,17 @@ Here are some ideas to get you started:
 
 -->
 
-### 🍀 Fun facts about me (精神状态一览：Yes, and?)
+### 🍀 Fun facts about me 
 
+🗣️ Multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo (Comment ça va!) 😅
 
-🗣️ Multilingual (English/Mandarin/Cantonese) and learning French on Duolinguo (Comment ça va! but lost streak in 2024, anyway, fuck you 2024) 😅
+💵 Minimalist, coffee coffee coffee 😋
 
-💵 Minimalist (in other words, poor ;), trying to reduce coffee and sugar intake ... (I don't think it's possible to reduce coffee intake for a PhD student)
+🎸 Please start playing your Fender Mustang 🐎 in 2025 or send it to ebay...
 
-🎸 Please start playing your Fender Mustang 🐎 in 2025 or send it to ebay 🙄
+😇 <s>Hoping to join in the 27 club if I still have no publications for PhD program in 2025 </s>
 
-😇 <s>Hoping to join in the 27 club if I still have no publications in 2025 (but still aggressively wanna do this PhD program, December 2024 really changed my whole life) </s>
-
-#### Looking ahead, my life aspiration is: live fast, die young, be wild, and have fun 😇
-<div align="center">
-  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/Evil%20doreamon.jpg" alt="meme1" width="200">
-</div>
-
-#### 鸭头，我住在农场只是为了体验自给自足的生活，弹弹吉他，回顾老日子，你不要再嫌弃我是个乡下豚，搬过来跟我一起住，好吗？好的。不说了我鱼竿动了我先走了 🤠
-<div align="center">
-  <img src="https://github.com/shuhui-wang/shuhui-wang/blob/main/guinea%20pig.jpg" alt="meme2" width="200">
-</div>
-
-#### 🍷🍷✨✨✨Red Wine Supernova is the best MV of Chappell Roan!!! (Screaming*)
+#### Looking ahead in the next two years, my life aspiration is: (1) live in a loft, let get back to the ground 🍳 (2) AGU plz... (3) Excellent programmer
 
 
 
